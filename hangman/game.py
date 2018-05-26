@@ -2,6 +2,7 @@ from .exceptions import *
 import random
 
 # Complete with your own, just for fun :)
+LIST_OF_WORDS = []
 
 def _get_random_word(list_of_words):
     if list_of_words == []:
